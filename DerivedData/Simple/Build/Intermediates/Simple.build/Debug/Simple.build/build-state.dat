@@ -39,11 +39,11 @@ t2
 s0
 
 N/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/openCLUtilities.o
-t1311841893
+t1311841909
 s39980
 
 N/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple-DA72C9810580D28F.o
-t1311841866
+t1311841909
 s235544
 
 N/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple.cl.o
@@ -67,7 +67,7 @@ t1311598202
 s768
 
 N/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/Simple
-t1311841893
+t1311841909
 s127572
 
 N/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/simple.cl
@@ -96,9 +96,9 @@ t1311841891
 s10377
 
 N/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/openCLUtilities.h
-c000000004E311E7300000000000023B1
-t1311841907
-s9137
+c000000004E311F2E00000000000023AF
+t1311842094
+s9135
 
 N/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cl
 c000000004E2CD5B10000000000000098
@@ -131,7 +131,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd50508f455e1b341^855d10f455e1b341^---0#1#0#--18"Check dependencies
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies3b8e330957e1b341^e0a14c0957e1b341^---0#1#0#--18"Check dependencies
 
 CCompile /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/simple.cl
 s333285134.810590
@@ -153,8 +153,8 @@ CCompileC DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build
 r0
 
 CCompileC DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/openCLUtilities.o /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/openCLUtilities.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s333534708.065177
-e333534709.143766
+s333534985.272390
+e333534986.538519
 r1
 xCompileC
 xDerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/openCLUtilities.o
@@ -163,11 +163,11 @@ xnormal
 xx86_64
 xc++
 xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/openCLUtilities.cppf81711f455e1b341^abcc24f555e1b341^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/openCLUtilities.cpp0000000000000000^1829"CompileC DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/openCLUtilities.o Simple/openCLUtilities.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/beau/Documents/FourthYear/miscProjects/Simple    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple.hmap -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/include -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources/x86_64 -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources -F/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug -MMD -MT dependencies -MF /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/openCLUtilities.d -c /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/openCLUtilities.cpp -o /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/openCLUtilities.o
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/openCLUtilities.cppcccf450957e1b341^beda890a57e1b341^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/openCLUtilities.cpp0000000000000000^1829"CompileC DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/openCLUtilities.o Simple/openCLUtilities.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/beau/Documents/FourthYear/miscProjects/Simple    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple.hmap -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/include -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources/x86_64 -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources -F/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug -MMD -MT dependencies -MF /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/openCLUtilities.d -c /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/openCLUtilities.cpp -o /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/openCLUtilities.o
 
 CCompileC DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple-DA72C9810580D28F.o /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s333534708.064408
-e333534709.452223
+s333534985.271821
+e333534986.890323
 r1
 xCompileC
 xDerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple-DA72C9810580D28F.o
@@ -180,7 +180,7 @@ o/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:221:29:{
 o             clWaitForEvents(events.size(), events.data());
 o             ~~~~~~~~~~~~~~~ ^~~~~~~~~~~~~
 o1 warning generated.
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp349e10f455e1b341^fb1f74f555e1b341^-379"/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:221:29:{221:29-221:42}{221:13-221:28}: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'cl_uint' (aka 'unsigned int') [-Wshorten-64-to-32,3]             clWaitForEvents(events.size(), events.data());             ~~~~~~~~~~~~~~~ ^~~~~~~~~~~~~1 warning generated.1(21%IDEActivityLogMessage2@112"Implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'cl_uint' (aka 'unsigned int')56"Implicit conversion loses integer precision: 'size_type'333534709#0#255#-1#-23%DVTTextDocumentLocation3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^220#28#220#28#18446744073709551615#0#14"Semantic Issue2(3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^220#28#220#41#18446744073709551615#0#3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^220#12#220#27#18446744073709551615#0#-0#0#0#-19%DVTDocumentLocation4@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^1835"CompileC DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple-DA72C9810580D28F.o Simple/simple.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/beau/Documents/FourthYear/miscProjects/Simple    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple.hmap -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/include -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources/x86_64 -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources -F/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug -MMD -MT dependencies -MF /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple-DA72C9810580D28F.d -c /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp -o /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple-DA72C9810580D28F.o
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp4baf450957e1b341^56d8e40a57e1b341^-379"/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:221:29:{221:29-221:42}{221:13-221:28}: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'cl_uint' (aka 'unsigned int') [-Wshorten-64-to-32,3]             clWaitForEvents(events.size(), events.data());             ~~~~~~~~~~~~~~~ ^~~~~~~~~~~~~1 warning generated.1(21%IDEActivityLogMessage2@112"Implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'cl_uint' (aka 'unsigned int')56"Implicit conversion loses integer precision: 'size_type'333534986#0#255#-1#-23%DVTTextDocumentLocation3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^220#28#220#28#18446744073709551615#0#14"Semantic Issue2(3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^220#28#220#41#18446744073709551615#0#3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^220#12#220#27#18446744073709551615#0#-0#0#0#-19%DVTDocumentLocation4@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^1835"CompileC DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple-DA72C9810580D28F.o Simple/simple.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/beau/Documents/FourthYear/miscProjects/Simple    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple.hmap -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/include -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources/x86_64 -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources -F/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug -MMD -MT dependencies -MF /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple-DA72C9810580D28F.d -c /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp -o /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple-DA72C9810580D28F.o
 
 CCompileC DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple.cl.o /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources/simple.cl.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
 s333291001.556162
@@ -265,12 +265,12 @@ x/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cl
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Create x86_64 bitcode from Simple/simple.cl8a3934cc0eddb341^e77283cc0eddb341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cl0000000000000000^1552"Create x86_64 bitcode from Simple/simple.cl    cd /Users/beau/Documents/FourthYear/miscProjects/Simple    /System/Library/Frameworks/OpenCL.framework/Libraries/openclc -x cl -cl-std=CL1.1 -Os -iquote /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple-generated-files.hmap -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple-own-target-headers.hmap -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple-all-target-headers.hmap -iquote /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple-project-headers.hmap -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/include -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources/x86_64 -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources -F/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug -triple x86_64-applecl-darwin -emit-llvm-bc /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cl -o /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/OpenCL/simple.cl.x86_64.bc
 
 CLd /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/Simple normal x86_64
-s333534709.464922
-e333534709.512491
+s333534986.902873
+e333534987.965730
 r1
 xLd
 x/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/Simple
 xnormal
 xx86_64
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Link /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/Simplee71977f555e1b341^594f85f555e1b341^---0#0#0#--763"Ld DerivedData/Simple/Build/Products/Debug/Simple normal x86_64    cd /Users/beau/Documents/FourthYear/miscProjects/Simple    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Developer/usr/bin/clang++ -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.7.sdk -L/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug -F/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug -filelist /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/Simple.LinkFileList -mmacosx-version-min=10.7 -framework OpenCL -o /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/Simple
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Link /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/Simplea837e70a57e1b341^7138f70b57e1b341^---0#0#0#--763"Ld DerivedData/Simple/Build/Products/Debug/Simple normal x86_64    cd /Users/beau/Documents/FourthYear/miscProjects/Simple    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Developer/usr/bin/clang++ -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.7.sdk -L/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug -F/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug -filelist /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/Simple.LinkFileList -mmacosx-version-min=10.7 -framework OpenCL -o /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/Simple
 
