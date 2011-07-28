@@ -7,8 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8B42CC3913DD0CE400E66EF2 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8B42CC3813DD0CE400E66EF2 /* main.cpp */; };
+		8B42CC3913DD0CE400E66EF2 /* simple.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8B42CC3813DD0CE400E66EF2 /* simple.cpp */; };
 		8B42CC3B13DD0CE400E66EF2 /* Simple.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 8B42CC3A13DD0CE400E66EF2 /* Simple.1 */; };
+		8B42CC4213DD0D0100E66EF2 /* OpenCL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B42CC4113DD0D0100E66EF2 /* OpenCL.framework */; };
+		8BEAEF8013DD3958009E081C /* openCLUtilities.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8BEAEF7F13DD3958009E081C /* openCLUtilities.cpp */; };
+		8BEAEF9413DD50F1009E081C /* simple.cl in Sources */ = {isa = PBXBuildFile; fileRef = 8BEAEF9313DD50F1009E081C /* simple.cl */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,8 +29,12 @@
 
 /* Begin PBXFileReference section */
 		8B42CC3413DD0CE300E66EF2 /* Simple */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Simple; sourceTree = BUILT_PRODUCTS_DIR; };
-		8B42CC3813DD0CE400E66EF2 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8B42CC3813DD0CE400E66EF2 /* simple.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = simple.cpp; sourceTree = "<group>"; };
 		8B42CC3A13DD0CE400E66EF2 /* Simple.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Simple.1; sourceTree = "<group>"; };
+		8B42CC4113DD0D0100E66EF2 /* OpenCL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenCL.framework; path = System/Library/Frameworks/OpenCL.framework; sourceTree = SDKROOT; };
+		8BEAEF7F13DD3958009E081C /* openCLUtilities.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = openCLUtilities.cpp; sourceTree = "<group>"; };
+		8BEAEF8213DD3968009E081C /* openCLUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = openCLUtilities.h; sourceTree = "<group>"; };
+		8BEAEF9313DD50F1009E081C /* simple.cl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.opencl; name = simple.cl; path = DerivedData/Simple/Build/Products/Debug/simple.cl; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +42,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B42CC4213DD0D0100E66EF2 /* OpenCL.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -44,6 +52,7 @@
 		8B42CC2913DD0CE300E66EF2 = {
 			isa = PBXGroup;
 			children = (
+				8B42CC4113DD0D0100E66EF2 /* OpenCL.framework */,
 				8B42CC3713DD0CE400E66EF2 /* Simple */,
 				8B42CC3513DD0CE300E66EF2 /* Products */,
 			);
@@ -60,8 +69,11 @@
 		8B42CC3713DD0CE400E66EF2 /* Simple */ = {
 			isa = PBXGroup;
 			children = (
-				8B42CC3813DD0CE400E66EF2 /* main.cpp */,
+				8B42CC3813DD0CE400E66EF2 /* simple.cpp */,
 				8B42CC3A13DD0CE400E66EF2 /* Simple.1 */,
+				8BEAEF7F13DD3958009E081C /* openCLUtilities.cpp */,
+				8BEAEF8213DD3968009E081C /* openCLUtilities.h */,
+				8BEAEF9313DD50F1009E081C /* simple.cl */,
 			);
 			path = Simple;
 			sourceTree = "<group>";
@@ -116,7 +128,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8B42CC3913DD0CE400E66EF2 /* main.cpp in Sources */,
+				8B42CC3913DD0CE400E66EF2 /* simple.cpp in Sources */,
+				8BEAEF8013DD3958009E081C /* openCLUtilities.cpp in Sources */,
+				8BEAEF9413DD50F1009E081C /* simple.cl in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -171,6 +185,9 @@
 		8B42CC3F13DD0CE400E66EF2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				FRAMEWORK_SEARCH_PATHS = "";
+				LIBRARY_SEARCH_PATHS = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -178,6 +195,10 @@
 		8B42CC4013DD0CE400E66EF2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				FRAMEWORK_SEARCH_PATHS = "";
+				LD_RUNPATH_SEARCH_PATHS = "";
+				LIBRARY_SEARCH_PATHS = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -201,6 +222,7 @@
 				8B42CC4013DD0CE400E66EF2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

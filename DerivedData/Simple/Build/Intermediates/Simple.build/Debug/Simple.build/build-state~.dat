@@ -1,0 +1,180 @@
+TSimple
+v3
+r1
+cCheck dependencies
+cCompile /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cl
+cCompileC DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple-DA72C9810580D28F.o /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple.cl.o /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources/simple.cl.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCreate i386 bitcode from /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cl
+
+N/Developer/SDKs/MacOSX10.7.sdk
+c000000004E1106D400000000000000EE
+t1309738708
+s238
+
+N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/OpenCL.framework/OpenCL
+c000000004E1106CF000000000000DD64
+t1309738703
+s56676
+
+N/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources/simple.cl.c
+t2
+s0
+
+N/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources/simple.cl.h
+t2
+s0
+
+N/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/Simple.LinkFileList
+c000000004E2CD6E6000000000000014A
+t1311561446
+s330
+
+N/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple-DA72C9810580D28F.o
+t2
+s0
+
+N/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple.cl.o
+t2
+s0
+
+N/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple.o
+t2
+s0
+
+N/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/OpenCL/simple.cl.gpu_32.bc
+t2
+s0
+
+N/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/OpenCL/simple.cl.i386.bc
+t2
+s0
+
+N/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/OpenCL/simple.cl.x86_64.bc
+t2
+s0
+
+N/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/Simple
+t2
+s0
+
+N/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/main.cpp
+c000000004E2CD5640000000000000120
+t1311561060
+s288
+
+N/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cl
+c000000004E2CD5B10000000000000098
+t1311561137
+s152
+
+N/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp
+c000000004E2CD6E50000000000002743
+t1311561445
+s10051
+
+CBuild AST from /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/main.cpp
+r0
+
+CBuild AST from /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies49d62d660eddb341^c24c33660eddb341^---0#1#0#--18"Check dependencies
+
+CCompile /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cl
+s333254246.270089
+e333254246.709629
+r1
+xCompile
+x/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cl
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection24"Compile Simple/simple.cl2f5046660eddb341^bda8b5660eddb341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cl0000000000000000^451"Compile Simple/simple.cl    cd /Users/beau/Documents/FourthYear/miscProjects/Simple    /System/Library/Frameworks/OpenCL.framework/Libraries/openclc -x cl -cl-std=CL1.1 -cl-auto-vectorize-enable -gcl-bc-dir OpenCL -emit-gcl /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cl -gcl-output-dir /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources
+
+CCompileC DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/main.o /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple-DA72C9810580D28F.o /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s333254246.718040
+e333254255.575489
+r0
+xCompileC
+xDerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple-DA72C9810580D28F.o
+x/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:28:1:{28:1-28:9}: error: C++ requires a type specifier for all declarations [3]
+o checkErr(cl_int err, const char * name)
+o ^~~~~~~~
+o/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:74:5: error: use of undeclared identifier 'DisplayPlatformInfo' [3]
+o     DisplayPlatformInfo(
+o     ^
+o/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:176:13: error: use of undeclared identifier 'InfoDevice' [3]
+o             InfoDevice<cl_device_type>::display(
+o             ^
+o/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:176:24: error: unexpected type name 'cl_device_type': expected expression [3]
+o             InfoDevice<cl_device_type>::display(
+o                        ^
+o/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:176:41:{176:39-176:41}: error: no member named 'display' in the global namespace [3]
+o             InfoDevice<cl_device_type>::display(
+o                                       ~~^
+o/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:230:29:{230:29-230:42}{230:13-230:28}: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'cl_uint' (aka 'unsigned int') [-Wshorten-64-to-32,3]
+o             clWaitForEvents(events.size(), events.data());
+o             ~~~~~~~~~~~~~~~ ^~~~~~~~~~~~~
+o/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:257:13: error: expected '}' [1]
+o             
+o             ^
+o/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:128:5: note: to match this '{'
+o     {
+o     ^
+o/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:257:13: error: expected '}' [1]
+o             
+o             ^
+o/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:39:1: note: to match this '{'
+o {
+o ^
+o1 warning and 7 errors generated.
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cppe109bd660eddb341^adc1a76f0eddb341^-1924"/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:28:1:{28:1-28:9}: error: C++ requires a type specifier for all declarations [3] checkErr(cl_int err, const char * name) ^~~~~~~~/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:74:5: error: use of undeclared identifier 'DisplayPlatformInfo' [3]     DisplayPlatformInfo(     ^/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:176:13: error: use of undeclared identifier 'InfoDevice' [3]             InfoDevice<cl_device_type>::display(             ^/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:176:24: error: unexpected type name 'cl_device_type': expected expression [3]             InfoDevice<cl_device_type>::display(                        ^/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:176:41:{176:39-176:41}: error: no member named 'display' in the global namespace [3]             InfoDevice<cl_device_type>::display(                                       ~~^/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:230:29:{230:29-230:42}{230:13-230:28}: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'cl_uint' (aka 'unsigned int') [-Wshorten-64-to-32,3]             clWaitForEvents(events.size(), events.data());             ~~~~~~~~~~~~~~~ ^~~~~~~~~~~~~/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:257:13: error: expected '}' [1]                          ^/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:128:5: note: to match this '{'     {     ^/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:257:13: error: expected '}' [1]                          ^/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp:39:1: note: to match this '{' { ^1 warning and 7 errors generated.8(21%IDEActivityLogMessage2@50"C++ requires a type specifier for all declarations-333254255#0#151#-2#-23%DVTTextDocumentLocation3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^27#0#27#0#18446744073709551615#0#14"Semantic Issue1(3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^27#0#27#8#18446744073709551615#0#-2@50"Use of undeclared identifier 'DisplayPlatformInfo'-333254255#202#139#-2#-3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^73#4#73#4#18446744073709551615#0#14"Semantic Issue--2@41"Use of undeclared identifier 'InfoDevice'-333254255#374#132#-2#-3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^175#12#175#12#18446744073709551615#0#14"Semantic Issue--2@58"Unexpected type name 'cl_device_type': expected expression-333254255#571#149#-2#-3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^175#23#175#23#18446744073709551615#0#14"Semantic Issue--2@49"No member named 'display' in the global namespace-333254255#796#156#-2#-3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^175#40#175#40#18446744073709551615#0#14"Semantic Issue1(3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^175#38#175#40#18446744073709551615#0#-2@112"Implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'cl_uint' (aka 'unsigned int')56"Implicit conversion loses integer precision: 'size_type'333254255#1045#255#-1#-3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^229#28#229#28#18446744073709551615#0#14"Semantic Issue2(3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^229#28#229#41#18446744073709551615#0#3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^229#12#229#27#18446744073709551615#0#-2@12"Expected '}'-333254255#1403#103#1(2@17"To match this '{'-333254255#1535#102#-0#-3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^127#4#127#4#18446744073709551615#0#24"LLVM compiler 2.1 Notice--2#-3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^256#12#256#12#18446744073709551615#0#11"Parse Issue--2@12"Expected '}'-333254255#1651#103#1(2@17"To match this '{'-333254255#1783#101#-0#-3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^38#0#38#0#18446744073709551615#0#24"LLVM compiler 2.1 Notice--2#-3@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^256#12#256#12#18446744073709551615#0#11"Parse Issue--0#0#0#-19%DVTDocumentLocation4@86"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp0000000000000000^2331"CompileC DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple-DA72C9810580D28F.o Simple/simple.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/beau/Documents/FourthYear/miscProjects/Simple    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple-generated-files.hmap -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple-own-target-headers.hmap -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple-all-target-headers.hmap -iquote /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple-project-headers.hmap -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/include -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources/x86_64 -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources -F/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug -MMD -MT dependencies -MF /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple-DA72C9810580D28F.d -c /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp -o /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple-DA72C9810580D28F.o
+
+CCompileC DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple.cl.o /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources/simple.cl.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s333254246.718653
+e333254255.380833
+r1
+xCompileC
+xDerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple.cl.o
+x/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources/simple.cl.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection158"Compile /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources/simple.cl.c280dbd660eddb341^9c87636f0eddb341^---0#0#0#-19%DVTDocumentLocation2@166"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources/simple.cl.c0000000000000000^2428"CompileC DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple.cl.o DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources/simple.cl.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/beau/Documents/FourthYear/miscProjects/Simple    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -iquote /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple-generated-files.hmap -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple-own-target-headers.hmap -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple-all-target-headers.hmap -iquote /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple-project-headers.hmap -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/include -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources/x86_64 -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources -F/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug -MMD -MT dependencies -MF /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple.cl.d -c /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources/simple.cl.c -o /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple.cl.o
+
+CCompileC DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Objects-normal/x86_64/simple.o /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCreate gpu_32 bitcode from /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cl
+r0
+
+CCreate i386 bitcode from /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cl
+s333254255.382335
+e333254255.777795
+r1
+xCreate
+xi386
+xbitcode
+xfrom
+x/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cl
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Create i386 bitcode from Simple/simple.cl77f6616f0eddb341^1a4dca6f0eddb341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cl0000000000000000^1546"Create i386 bitcode from Simple/simple.cl    cd /Users/beau/Documents/FourthYear/miscProjects/Simple    /System/Library/Frameworks/OpenCL.framework/Libraries/openclc -x cl -cl-std=CL1.1 -Os -iquote /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple-generated-files.hmap -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple-own-target-headers.hmap -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple-all-target-headers.hmap -iquote /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/Simple-project-headers.hmap -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/include -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources/x86_64 -I/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Intermediates/Simple.build/Debug/Simple.build/DerivedSources -F/Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug -triple i386-applecl-darwin -emit-llvm-bc /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cl -o /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/OpenCL/simple.cl.i386.bc
+
+CCreate x86_64 bitcode from /Users/beau/Documents/FourthYear/miscProjects/Simple/Simple/simple.cl
+r0
+
+CLd /Users/beau/Documents/FourthYear/miscProjects/Simple/DerivedData/Simple/Build/Products/Debug/Simple normal x86_64
+r0
+
